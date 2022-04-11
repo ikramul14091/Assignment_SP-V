@@ -1,0 +1,2 @@
+var myFirstName="Wali Ullah";
+var myLastName="Ripon";
