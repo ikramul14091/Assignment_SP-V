@@ -1,0 +1,1 @@
+let noNumRegex = /\D/g;
